@@ -81,17 +81,4 @@ The model takes historical server performance logs with features such as:
 
 ---
 
-## 🚀 Getting Started
-### Prerequisites
-- Python 3.9+
-- TensorFlow / Keras
-- NumPy, Pandas
-- Matplotlib, Seaborn, Plotly
-- Scikit-learn
-- ReportLab / WeasyPrint (for PDF/HTML reports)
 
-### Installation
-```bash
-git clone https://github.com/your-username/lstm-server-anomaly-detection.git
-cd lstm-server-anomaly-detection
-pip install -r requirements.txt
